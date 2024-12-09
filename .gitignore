@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# Evitar subir arquivos de configuração que contenham dados sensíveis
+appsettings.Development.json
+appsettings.Local.json
